@@ -54,6 +54,7 @@ export const Button = styled.button<Props>`
     
     text-align: right;
     font-weight: bold;
+    line-height: 17px;
     font-size: 13px;
     color: var(--white);
 
